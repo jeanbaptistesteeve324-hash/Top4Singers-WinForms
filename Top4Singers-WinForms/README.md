@@ -67,7 +67,7 @@ Top4Singers-WinForms/
 
 ### Author
 
-Created by **YOUR-NAME** — [GitHub](https://github.com/Steeve JB)
+Created by **jeanbaptistesteeve324-hash** — [GitHub](https://github.jeanbaptistesteeve324-hash)
 
 ### License
 
@@ -138,7 +138,7 @@ Top4Singers-WinForms/
 
 ### Autor
 
-Criado por **Steeve JB** — [GitHub](https://github.com/jeanbaptistesteeve324-hash)
+Criado por **jeanbaptistesteeve324-hash** — [GitHub](https://github.com/jeanbaptistesteeve324-hash)
 
 ### Licença
 
